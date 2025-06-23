@@ -9,7 +9,7 @@ Follow these instructions to set up the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nwesha/scholarship-finder-app
 cd scholarship-finder
 ```
 
@@ -23,7 +23,7 @@ npm install
 ### 3. Setup the Backend
 
 ```bash
-cd ../backend
+cd ../scholarship-finder-backend
 npm install
 ```
 
