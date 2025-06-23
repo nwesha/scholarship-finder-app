@@ -49,7 +49,7 @@ JWT_EXPIRES_IN=1d
 To populate the database with scholarships:
 
 ```bash
-cd backend/scrapers
+cd scholarship-finder-backend/scrapers
 node index.js
 ```
 
